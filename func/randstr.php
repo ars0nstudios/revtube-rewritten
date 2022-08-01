@@ -8,5 +8,6 @@ function generateRandomString($length = 11) {
     }
     return $randomString;
 }
-echo "Here is a randomly generated media ID: ", generateRandomString();
+echo "Here is a randomly generated ID: ", generateRandomString();
+echo "this is not a real video ID"
 ?>
