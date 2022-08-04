@@ -1,5 +1,5 @@
       <footer>
-        <p>&copy; 2021-<?php echo date("Y");?> RevTube</p>
+        <p>&copy; 2021-<?php echo date("Y");?> xcTech &bull; &copy; <?php echo date("Y");?> tyvu</p>
       </footer> <!-- /container -->
 
 
