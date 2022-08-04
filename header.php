@@ -8,7 +8,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#"><img src="assets/revtubenavbar.png" height="23px" width="59px"></a>
+      <a class="navbar-brand" href="."><img src="assets/revtubenavbar.png" height="23px" width="59px"></a>
     </div>
 
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -16,9 +16,10 @@
         <li><a href=".">Home</a></li>
         <li><a href="trending">Trending</a></li>
         <li><a href="#">Channels</a></li>
+        <li><a href="#">Community</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-      <li><a href="#"><span class="glyphicon glyphicon-upload" aria-hidden="true"></span> Upload</a></li>
+      <li><a href="#"><span class="glyphicon glyphicon-upload" aria-hidden="true"></span> Create</a></li>
       <li><a href="#">Login</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
